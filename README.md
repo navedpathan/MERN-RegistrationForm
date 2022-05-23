@@ -6,7 +6,7 @@ Run commands
 
 1. ### `npm install`
 
-2. ### `npm start`
+2. ### `npm run dev`
 
 
 ## Or using yarn
@@ -17,4 +17,4 @@ Run commands
 
 2. ### `yarn install`
 
-3. ### `yarn start`
+3. ### `yarn run dev`
